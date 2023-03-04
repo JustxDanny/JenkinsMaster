@@ -1,0 +1,3 @@
+{"Item":{"Role":{"S":"CEO"},"Age":{"S":"49"},"Name":{"S":"David"}}}
+{"Item":{"Role":{"S":"Designer"},"Age":{"S":"35"},"Name":{"S":"Sam"}}}
+{"Item":{"Role":{"S":"Dev-Ops"},"Age":{"S":"28"},"Name":{"S":"John"}}}
